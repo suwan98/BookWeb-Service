@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "SCDream5";
+  src: url(./assets/font/SCDream5.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+.App {
+  font-family: "SCDream5";
+}
