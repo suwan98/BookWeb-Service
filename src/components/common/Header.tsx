@@ -49,7 +49,7 @@ const Header = () => {
         </LogoWrapper>
         <ContentWrapper>
           <span onClick={bookRecommendHandler}>개발자 추천 도서 목록🤖</span>
-          <span onClick={bookBoardHandler}>개발자 게시판🎆</span>
+          <span onClick={bookBoardHandler}>개발자 게시판!🎆</span>
         </ContentWrapper>
         {/**다크모드/라이트모드 토글 구현하기 */}
         <UserWrapper>
