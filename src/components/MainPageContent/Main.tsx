@@ -92,7 +92,7 @@ const Main = () => {
         </Link>
         <Pagination>
           <Pagination.Prev onClick={() => setActiveIndex(activeIndex - 1)} />
-          <Pagination.Next onClick={() => setActiveIndex(activeIndex + 1)} />
+          <Pagination.Next onClick={() => setActiveIndex(activeIndex + 2)} />
         </Pagination>
       </MainRightContentWrapper>
     </MainContainer>
